@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\DELL\OneDrive\Desktop\ttt\campusEventProject\campus-event-system"/>
+			<item value="C:\Users\DELL\OneDrive\Desktop\ttt\campusEventProject"/>
 			<item value="C:\STS\campus-event-system"/>
 		</list>
 		<list key="projectNameTemplate">
